@@ -1,7 +1,7 @@
 public class FizzBuzz {
     public static void main (String[] args){
 
-        int max = (args.length > 0) ? Integer.parseInt(args[0]) : 200;
+        int max = (args.length > 0) ? Integer.parseInt(args[0]) : 100;
 
 
         for(int i =1; i<=max; i++){
