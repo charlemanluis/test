@@ -1,6 +1,6 @@
 // comentario de on copain
 public class FizzBuzz {
-    public static void main (String[] args)
+    public static void main (String[] args){
 
 
         int max = (args.length > 0) ? Integer.parseInt(args[0]) : 500;
